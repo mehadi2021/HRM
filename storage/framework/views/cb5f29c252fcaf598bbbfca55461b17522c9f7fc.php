@@ -1,0 +1,1 @@
+<?php /**PATH C:\xampp\htdocs\hr-management-system\resources\views/backend/partial/frontend/salaryadd.blade.php ENDPATH**/ ?>
